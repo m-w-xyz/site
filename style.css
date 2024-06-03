@@ -18,12 +18,12 @@ body {
 /* text styles */
 
 @font-face {
-    font-family: GT-Alpina;
-    src: url(https://cdn.jsdelivr.net/gh/markwilson-xyz/moustache/Fonts/GT-Alpina-Standard-Regular.otf);
+    font-family: antibad-font;
+    src: url(https://cdn.jsdelivr.net/gh/antibad/site/fonts/Suisse-Antique.otf);
   }
 
 h1 {
-    font-family: "GT-Alpina", Arial, Helvetica, sans-serif;
+    font-family: "antibad-font" Arial, Helvetica, sans-serif;
     font-size: 24px;
     font-weight: 400;
     color: #efefef;
