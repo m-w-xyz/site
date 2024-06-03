@@ -19,15 +19,16 @@ body {
 
 @font-face {
     font-family: antibad-font;
-    src: url(https://cdn.jsdelivr.net/gh/antibad/site/fonts/Suisse-Antique.otf);
+    src: url(https://cdn.jsdelivr.net/gh/antibad/site/fonts/antibad-font.otf);
   }
 
 h1 {
-    font-family: "antibad-font" Arial, Helvetica, sans-serif;
+    font-family: "antibad-font", Arial, Helvetica, sans-serif;
     font-size: 24px;
     font-weight: 400;
     color: #efefef;
     margin: auto;
+    letter-spacing: 0.02rem;
 }
 
 p {
